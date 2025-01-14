@@ -1,13 +1,16 @@
-`post`  /api/search  
+## Base URL: https://services-links.vercel.app/
 
-`body`
+### Endpoints
+`POST` /api/search  
+
+#### Example
+`Body` 
 ```json
 {
   "message": "Férias"
 }
 ```
-
-`response`
+`Response`
 ```json
 {
   "services": [
