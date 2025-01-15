@@ -188,7 +188,7 @@
 
 ### 🚀 Tecnologias
 
-This project was developed using these technologies:
+Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - JavaScript
 - Express.js
@@ -198,7 +198,7 @@ This project was developed using these technologies:
 - Git
 - Github
 
-##### This project is part of my intern experience in a Brazilian goverment agency. 
+##### Esse projeto é parte da minha experiência como estagiário em um órgão do governo federal. 
 
-### ⚖ License
-<p> This project is licensed under <a href="https://opensource.org/license/mit/" target="_blank">The MIT License</a> </p>
+### ⚖ Licença
+<p> Este projeto está licenciado sob <a href="https://opensource.org/license/mit/" target="_blank">a Licença MIT</a> </p>
