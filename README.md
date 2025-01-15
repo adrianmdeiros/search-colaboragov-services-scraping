@@ -198,7 +198,5 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Git
 - Github
 
-##### Esse projeto é parte da minha experiência como estagiário em um órgão do governo federal. 
-
 ### ⚖ Licença
 <p> Este projeto está licenciado sob <a href="https://opensource.org/license/mit/" target="_blank">a Licença MIT</a> </p>
